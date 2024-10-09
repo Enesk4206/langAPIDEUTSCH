@@ -1,5 +1,10 @@
 [
     {"german" :"das Haus" , "turkish":"Ev" },
     {"german" :"das Auto" , "turkish":"Araba"},
-    {"german" :"die Katze" , "turkish":"Kedi"}
+    {"german" :"die Katze" , "turkish":"Kedi"},
+    {"german" :"das Buch", "turkish" : "Kitap"},
+    {"german" :"der Tisch", "turkish" : "Masa"},
+    {"german" :"die Tasche", "turkish" : "Çanta"},
+    {"german" :"der Stuhl" , "turkish" :"Sandalye"},
+    {"german" :"der Stift", "turkish" : "Kalem"}
 ]
